@@ -8,8 +8,7 @@ ng generate component project-list
  ng g c header
  
 ## Inicializar el servidor y compilar en puerto 4200
- ng serve
-
+ng serve
 
 
 
